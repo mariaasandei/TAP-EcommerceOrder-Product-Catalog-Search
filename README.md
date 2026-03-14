@@ -150,14 +150,14 @@ When searching:
 
 ```
 ┌─────────────────────────────────────────────────┐
-│             EcommerceOrder System                │
+│             EcommerceOrder System               │
 │                                                 │
 │  ┌──────────────────────────────────────────┐   │
 │  │        Console Application (.NET 10)     │   │
 │  │                                          │   │
 │  │   Program.cs ──► CatalogService          │   │
 │  │                       │                  │   │
-│  │                  ProductStorage           │   │
+│  │                  ProductStorage          │   │
 │  │              (In-Memory Database)        │   │
 │  └──────────────────────────────────────────┘   │
 └─────────────────────────────────────────────────┘
