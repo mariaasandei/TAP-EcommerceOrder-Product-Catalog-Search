@@ -166,8 +166,4 @@ When searching:
 > Single deployment unit: a console application with an in-memory database.  
 > External systems for payment and delivery would integrate via dedicated service interfaces.
 
----
 
-## 👩‍💻 Author
-
-Made with 💜 for OOP / Software Design coursework.
